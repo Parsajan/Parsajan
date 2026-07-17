@@ -110,7 +110,7 @@ Currently available for **freelance projects** in FPGA design and embedded syste
 
 ## 📫 Get In Touch
 
-- 💼 LinkedIn: [linkedin.com/in/parsa hoseinzadeh]
+- 💼 LinkedIn: [https://linkedin.com/in/parsa_hoseinzadeh]
 - 📧 Email: 'parsa.hoseinzadeh16@gmail.com'
 - 🌍 Open to **remote freelance** and **full-time** opportunities in Europe
 
