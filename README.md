@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/parsa-hoseinzadeh-86a158166"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:parsa.hoseinzadeh16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:parsa.hoseinzade16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Available%20for-Freelance-brightgreen?style=for-the-badge"/>
 </p>
 
@@ -111,7 +111,7 @@ Currently available for **freelance projects** in FPGA design and embedded syste
 ## 📫 Get In Touch
 
 - 💼 LinkedIn: [https://linkedin.com/in/parsa-hoseinzadeh-86a158166]
-- 📧 Email: 'parsa.hoseinzadeh16@gmail.com'
+- 📧 Email: 'parsa.hoseinzade16@gmail.com'
 - 🌍 Open to **remote freelance** and **full-time** opportunities in Europe
 
 ---
